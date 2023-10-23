@@ -126,3 +126,4 @@ dmypy.json
 
 # Specific files
 monthly-sunspots.csv
+titanic.csv
